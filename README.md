@@ -7,7 +7,7 @@
 <a href = "https://medium.com/@tamirisncr"><img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white />" target="_blank"></a>
 </div>
 
-Estudante de Ciência de Dados, com foco em Python para análise de dados e SQL para consulta e coleta em banco de dados.
+#### Estudante de Ciência de Dados, com foco em Python para análise de dados e SQL para consulta e coleta em banco de dados.
 
 
 ### :computer: Ferramentas e Linguagens
